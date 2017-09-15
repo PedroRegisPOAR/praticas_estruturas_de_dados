@@ -1,5 +1,5 @@
-## Como não sou experiente em versionar projetos em java e C++
-## procurei no google quais arquivos não deveriam ser versionados
+## Como nï¿½o sou experiente em versionar projetos em java e C++
+## procurei no google quais arquivos nï¿½o deveriam ser versionados
 ## e encontrei o link:
 ##
 ## https://github.com/github/gitignore
@@ -71,3 +71,6 @@ hs_err_pid*
 *.exe
 *.out
 *.app
+/pratica4/JavaApplication10/nbproject/private/
+/pratica4/projeto_pratica4/nbproject/private/
+/pratica4/projeto_pratica4/build/
